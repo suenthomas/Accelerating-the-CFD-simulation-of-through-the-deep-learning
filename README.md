@@ -1,1 +1,1 @@
-# Accelerating-the-CFD-simulation-of-through-the-deep-learning
+# Accelerating-the-CFD-simulation-through-the-deep-learning
